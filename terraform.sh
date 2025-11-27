@@ -7,6 +7,7 @@ sudo apt update && sudo apt install terraform
 
 echo 'Terraform installed'
 
-wget 
+wget https://raw.githubusercontent.com/Fa1c0/Bash-Misc/refs/heads/main/terraform.tf
 
 terraform init
+
